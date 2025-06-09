@@ -5,7 +5,7 @@
 </script>
 
 <main>
-  <h1>lingoq2 🌍</h1>
+  <h1>lingoq3 🌍</h1>
   <MixLingo />
 </main>
 
